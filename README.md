@@ -4,4 +4,4 @@ I am John Gabriel Gabon, also known as @lxaplace. As an IT student, I began my j
 I always believe that we can soar the sky with a dream and a byte.
 
 ## Portfolio
-Access: [Porfolio](https://gabonjohngabriel-portfolio.vercel.app)
+Access: https://gabonjohngabriel-portfolio.vercel.app
