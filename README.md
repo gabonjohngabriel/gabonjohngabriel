@@ -1,5 +1,5 @@
 ## About Me
-I am John Gabriel Gabon, also known as @lxaplace. As an IT student, I began my journey with basic web programming languages, such as HTML, CSS, and JavaScript, and have since upskilled to TypeScript, React, Vite, and Next.js. Additionally, I have mastered Figma in creating diverse UI/UX designs for web and mobile platforms. My portfolio includes designs for a food delivery service, a modern ATM, transportation apps, AI-driven pet health platforms, and an IoT healthcare kiosk.
+Before taking the program, I started my programming journey with HTML, CSS, and JavaScript in 2020. Then, I have developed skills in TypeScript, React, Vite, and Next.js. In college, I started to master Figma in creating diverse UI/UX designs for web and mobile platforms. Beyond that, I also excel in video editing and graphic design.
 
 ## Portfolio
 Access: https://gabonjohngabriel-portfolio.vercel.app
