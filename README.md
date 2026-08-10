@@ -21,6 +21,7 @@ Beyond software development, I bridge the gap between design and code. In colleg
 ### 🛠️ Tech Stack & Creative Tools
 
 **Frontend Development**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -30,6 +31,7 @@ Beyond software development, I bridge the gap between design and code. In colleg
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Design & Creative**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/UI/UX-Design-00C7B7?style=for-the-badge)
 ![Graphic Design](https://img.shields.io/badge/Graphic-Design-FF69B4?style=for-the-badge)
