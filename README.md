@@ -1,4 +1,4 @@
-# GitHub Profile
+# @gabonjohngabriel
 
 > **Aspiring Full-Stack Developer & UI/UX Designer**
 
