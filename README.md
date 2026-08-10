@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel Gabon 👋
+# GitHub Profile
 
 > **Aspiring Full-Stack Developer & UI/UX Designer**
 
