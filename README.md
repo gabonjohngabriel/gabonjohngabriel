@@ -16,8 +16,6 @@ My journey started in **2020** with foundational web technologies—HTML, CSS, a
 
 Beyond software development, I bridge the gap between design and code. In college, I deepened my mastery of **Figma**, crafting human-centric UI/UX designs for web and mobile platforms. My creative toolkit also extends to **video editing** and **graphic design**, allowing me to build cohesive visual narratives across media.
 
-- 🌐 **Portfolio:** Check out my featured work at [gabonjohngabriel-portfolio.vercel.app](https://gabonjohngabriel-portfolio.vercel.app).
-
 ---
 
 ### 🛠️ Tech Stack & Creative Tools
