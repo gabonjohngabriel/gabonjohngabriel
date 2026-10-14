@@ -1,7 +1,5 @@
 # @gabonjohngabriel
 
----
-
 ### 🚀 About Me
 
 I am a developer and visual designer passionate about turning complex ideas into accessible, engaging digital products. 
