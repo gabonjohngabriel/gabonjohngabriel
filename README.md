@@ -1,11 +1,5 @@
 # @gabonjohngabriel
 
-> **Aspiring Full-Stack Developer & UI/UX Designer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-gabonjohngabriel.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gabonjohngabriel-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielgabon)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gab0114)
-
 ---
 
 ### 🚀 About Me
