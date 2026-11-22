@@ -3,9 +3,9 @@
 **Software Engineer** · **BS Information Technology** @ Bulacan State University  
 **Features and Lifestyle Editor** at CURSOR Publication
 
-I started coding back in 2020 with HTML, CSS, and JavaScript. Since then, I've moved into building full-stack web apps with TypeScript, React, and Next.js, writing object-oriented systems in Java, and exploring Rust.
+I started programming way back in 2020 with HTML, CSS, and JavaScript. Since then, I've moved into building full-stack web applications with TypeScript, React, and Next.js, writing object-oriented systems in Java, and currently exploring Rust.
 
-Alongside software engineering, I work across design and campus journalism—crafting UI/UX in Figma, creating graphics and videos for student tech communities, and writing and editing Features and Lifestyle stories at **CURSOR Publication**.
+Alongside software engineering, I contribute across design and campus journalism—crafting UI/UX, creating graphics and videos for student tech communities, and writing Features and Lifestyle stories at **CURSOR Publication.**
 
 ---
 
