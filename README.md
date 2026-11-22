@@ -1,4 +1,4 @@
-# Hey, I'm John Gabriel Gabon
+# About Me
 
 **Software Engineer** · **BS Information Technology** @ Bulacan State University  
 **Features and Lifestyle Editor** at CURSOR Publication
